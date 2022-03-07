@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *AMRU-SER*:  ```" + msg + "```"
+    return "✅ *ALEXA*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *AMRU-SER*:  ```" + msg + "```"
+    return "🛑 *ALEXA*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *AMRU-SER*:  ```" + msg + "```"
+    return "⏺️ *ALEXA*:  ```" + msg + "```"
 }
 
 
