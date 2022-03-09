@@ -29,7 +29,7 @@ Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (a
       
       const buttonMessage = {
           contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'Aᴍʀᴜ sᴇʀ ©',
+          footerText: 'ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩ ©',
           buttons: buttons,
           headerType: 1
       }
