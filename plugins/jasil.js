@@ -7,22 +7,22 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/CtaexU3.jpeg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bᴏᴛ Nᴀᴍᴇ 🇦 🇲 🇷 🇺   🇸 🇪 🇷  🇧 🇴 🇹 *
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bᴏᴛ Nᴀᴍᴇ ᴛᴏxɪᴄ ᴀʟᴇxᴀ *
 
-*Cʀᴇᴀᴛᴇʀ number : wa.me/917025631103?text=Hi%20ᴀᴍʀᴜ%20bro.%20*
+*Cʀᴇᴀᴛᴇʀ number : wa.me/916380260672?text=Hi%20ᴛᴜʀʙᴏ%20bro.%20*
 
 
- *Aᴍʀᴜ sᴇʀ Cʜᴀɴᴀʟ : https://youtu.be/x47g62HcsWc😁*
+ *ᴛᴜʀʙᴏ Cʜᴀɴᴀʟ : https://www.youtube.com/c/TurboMods 😁*
      
- *Iɴsᴛᴀɢʀᴀᴍ ɪᴅ: https://instagram.com/its_me_dron?utm_medium=copy_link*
+ *Iɴsᴛᴀɢʀᴀᴍ ɪᴅ: https://instagram.com/toxic_turbo777*
 
- *Aᴍʀᴜ sᴇʀ Bᴏᴛ Gʀᴏᴜᴘ: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*
+ *ᴛᴏxɪᴄ ᴀʟᴇxᴀ Bᴏᴛ Gʀᴏᴜᴘ: https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp*
 
- *Gɪᴛ Lɪɴᴋ : https://github.com/AMRUSIR/AMRU-SER*
+ *Gɪᴛ Lɪɴᴋ : coming soon*
 
- *Aᴍʀᴜ-sᴇʀ-ʙᴏᴛꫂ⁩..♡︎*
+ *ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩*
 `}) 
 
 }));
