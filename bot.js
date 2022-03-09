@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Amru Ser ' + config.WORKTYPE + ' Now 💙'));
+            chalk.green.bold('Alexa Bot ' + config.WORKTYPE + ' Now 💙'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
